@@ -136,6 +136,22 @@
       "GREEN_360": "#a6e3a1",
       "PRIMARY_100": "#cdd6f4",
       "PRIMARY_300": "#1e1e2e",
+
+        },
+
+  "background": {
+
+    "blur": 25,
+
+    "url": "https://cdn.discordapp.com/attachments/756802846078271532/1130368703842766889/NaturalTexture06.jpg",
+
+    "alpha": 0.67
+
+  },
+
+    "spec": 2
+
+}
       "PRIMARY_360": "#a6e3a1",
       "PRIMARY_400": "#a6e3a1",
       "PRIMARY_500": "#cdd6f4",
