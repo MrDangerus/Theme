@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#10210C"
+      "#a6e3a1"
       ],
       "BACKGROUND_FLOATING": [
       "#181825"
@@ -136,10 +136,6 @@
       "GREEN_360": "#a6e3a1",
       "PRIMARY_100": "#cdd6f4",
       "PRIMARY_300": "#1e1e2e",
-
-        },
-
-}
       "PRIMARY_360": "#a6e3a1",
       "PRIMARY_400": "#a6e3a1",
       "PRIMARY_500": "#cdd6f4",
@@ -153,21 +149,4 @@
       "YELLOW_300": "#f9e2af"
     },
     "spec": 2
-  }
-
-
-    },
-
-  "background": {
-
-    "blur": 25,
-
-    "url": "https://media.discordapp.net/attachments/756802846078271532/1115362733005742090/OModzsW2.gif",
-
-    "alpha": 0.67
-
-  },
-
-    "spec": 2
-
 }
