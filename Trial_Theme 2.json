@@ -8,6 +8,7 @@
       }
     ],
     "semanticColors": {
+        
     "ACTIVITY_CARD_BACKGROUND": [
         "#3F5E30"
         "#3F5E30"
@@ -44,11 +45,6 @@
        "#26341B"
     ]
        
-  },
-    "background": {
-    "blur": 0.30,
-    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1124541555768840202/41_07.png",
-    "alpha": 0.42
   },
     "spec": 2
 }
