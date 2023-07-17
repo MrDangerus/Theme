@@ -149,4 +149,18 @@
       "YELLOW_300": "#f9e2af"
     },
     "spec": 2
+    
+}, 
+  "background": {
+
+    "blur": 25,
+
+    "url": "https://media.discordapp.net/attachments/756802846078271532/1115362733005742090/OModzsW2.gif",
+
+    "alpha": 0.67
+
+  },
+
+    "spec": 2
+
 }
