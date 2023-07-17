@@ -1,9 +1,9 @@
 {
-    "name": "catppuccin mocha green",
-    "description": "your favourite cute theme, now even darker",
+    "name": "trial_theme 2",
+    "description": "just trying things here and there",
     "authors": [
       {
-        "name": "riichi",
+        "name": "infinity_traveler",
         "id": "920329543187832912"
       }
     ],
@@ -36,7 +36,7 @@
       "#9399b2"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-      "#1e1e2e"
+      "#10210C"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
       "#181825"
@@ -60,7 +60,7 @@
       "#181825"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-      "#181825"
+      "#070B03"
       ],
       "BACKGROUND_TERTIARY": [
       "#11111b"
@@ -93,7 +93,7 @@
       "#5b6078"
       ],
       "INTERACTIVE_NORMAL": [
-      "#9399b2"
+      "#122A16"
       ],
       "MENTION_BACKGROUND": [
       "#f258584d"
