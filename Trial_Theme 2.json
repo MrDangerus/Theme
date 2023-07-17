@@ -32,21 +32,16 @@
        "#26341B",
        "#88e32b",
        "#26341B"
-    ]
+    ],
+    "CHAT_BACKGROUND": [
+       "#26341B",
+       "#88e32b",
+       "#26341B"
        
   },
     "rawColors": {
      
     },
-
-  "background": {
-
-    "blur": 0,
-
-    "url": "https://cdn.discordapp.com/attachments/756802846078271532/1130368703842766889/NaturalTexture06.jpg"
-    "alpha": 0.67
-
-  },
     "spec": 2
     
 }
