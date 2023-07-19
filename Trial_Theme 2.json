@@ -61,6 +61,11 @@
     ]
        
   },
+
+    "rawColors": {
+        "PRIMARY_600": "#5C7937"
+
+    },
   "background": {
     "blur": 0.30,
     "url": "https://cdn.discordapp.com/attachments/756802846078271532/1130368703842766889/NaturalTexture06.jpg",
