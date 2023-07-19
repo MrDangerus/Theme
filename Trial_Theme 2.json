@@ -25,14 +25,14 @@
        "#5C7937"
     ],
     "BACKGROUND_SECONDARY": [
-       "#26341B",
-       "#88e32b",
-       "#26341B"
+       "#11140E",
+       "#D8DBD0",
+       "#11140E"
     ],
     "BACKGROUND_SCONDARY_ALT": [
-       "#5C7937",
-       "#5C7937",
-       "#5C7937"
+       "#11140E",
+       "#D9DBD1",
+       "#11140E"
     ],
     "BACKGROUND_ACCENT": [
        "#26341B",
@@ -41,8 +41,8 @@
     ],
     "CHAT_BACKGROUND": [
        "#11140E",
-       "#F8FBF1",
-       "#26341B"
+       "#11140E",
+       "#11140E"
     ],
     "BACKGROUND_TERITARY": [
         "#373A33",
