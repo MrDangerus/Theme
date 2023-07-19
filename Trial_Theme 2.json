@@ -40,9 +40,19 @@
        "#26341B"
     ],
     "CHAT_BACKGROUND": [
-       "#26341B",
+       "#F8FBF1",
        "#88e32b",
        "#26341B"
+    ],
+    "BACKGROUND_TERITARY": [
+        "#D8DBD0",
+        "#D8DBD0",
+        "#D8DBD0"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+        "#D8DBD0",
+        "#D8DBD0",
+        "#D8DBD0"
     ]
        
   },
