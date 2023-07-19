@@ -10,14 +10,14 @@
     "semanticColors": {
         
     "ACTIVITY_CARD_BACKGROUND": [
-            "#fb4934",
-            "#9d0006",
-            "#fb4934"
+       "#fb4934",
+       "#9d0006",
+       "#fb4934"
     ],
     "BACKGROUND_PRIMARY": [
-       "#26341B",
-       "#88e32b",
-       "#26341B"
+       "#373A33",
+       "#D8DBD0",
+       "#373A33"
     ],
     "INTERACTIVE_ACTIVE": [
        "#5C7937",
