@@ -29,10 +29,10 @@
        "#D8DBD0",
        "#5C7937"
     ],
-    "BACKGROUND_SCONDARY_ALT": [
-       "#FF3636",
-       "#FF3636",
-       "#FF3636"
+    "BACKGROUND_SECONDARY_ALT": [
+       "#5C7937",
+       "#D9DBD1",
+       "#5C7937"
     ],
     "BACKGROUND_ACCENT": [
        "#26341B",
