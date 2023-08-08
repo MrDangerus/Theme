@@ -106,7 +106,14 @@
         ],
         "CHAT_BACKGROUND": [
             "#000000"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#000000"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+            "#000000"
         ]
+        
     },
     "rawColors":{
 
