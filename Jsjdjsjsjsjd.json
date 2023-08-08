@@ -11,16 +11,16 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#000000"
+            "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#000000"
+            "#ffffff"
         ],
         "TEXT_NORMAL": [
-            "#000000"
+            "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#000000"
+            "#ffffff"
         ],
         "INTERACTIVE_NORMAL": [
             "#000000"
@@ -29,7 +29,7 @@
             "#000000"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#000000"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
             "#000000"
@@ -110,8 +110,8 @@
     },
     "rawColors":{
 
-        "PRIMARY_100": "#000000",
-        "PRIMARY_200": "#000000",
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#000000",
         "PRIMARY_360": "#000000",  
         "PRIMARY_400": "#000000",
