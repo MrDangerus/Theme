@@ -1,5 +1,5 @@
 {
-    "name": "Maggie's Purple (wanted to edit)",
+    "name": "Maggie's Purple(want to edit)",
     "description": "Theme for people who like the color purple (Version 2.0)",
     "authors": [
        
@@ -125,20 +125,10 @@
     },
     "plus": {
         "version": 0,
-        "unreadBadgeColor": "#a565f7",
+        "unreadBadgeColor": "transparent",
         "mentionLineColor": "#a96df7",
         "customOverlays": true,
         "iconpack":"rosiecord-plumpy"
     },
-
-  "background": {
-
-    "blur": 25,
-
-    "url": "https://media.discordapp.net/attachments/756802846078271532/1138318618917089301/Video_by_vaporwave_1980_CuQCi0AsBqC.gif"
-    "alpha": 0.67
-
-  },
-
     "spec": 2
 }
