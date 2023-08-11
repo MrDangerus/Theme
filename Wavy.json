@@ -133,13 +133,7 @@
         "WHITE_500": "#ffffff"
        
     },
-  "background": {
-    "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1124541555768840202/41_07.png",
-    "alpha": 0.42
-  },
-
-"   "plus": {
+  "plus": {
         "version": 0,
         "unreadBadgeColor": "000000",
         "mentionLineColor": "#a96df7",
@@ -147,5 +141,4 @@
         "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
-}
 }
